@@ -1,3 +1,3 @@
 # Personal Tracker
 
-A personalize tracker for the user
+A personalize tracker for the user!
